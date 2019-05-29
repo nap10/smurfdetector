@@ -6,7 +6,7 @@ forked from Sinclair47/player_analytics https://github.com/Sinclair47/player_ana
 
 ## What does it do?
 This webapp simply searches for all different IP's in the playeranalytics database which belong to a steam account and then looks for other accounts which were connected to this IP's.  
-The chances of that accounts being smurf/alt accounts is 95% :)
+The chances of that accounts being smurf/alt accounts is let's say 95% :)
 
 The other 5% could be:
 - same internet connection (LAN parties, family members, living communitys, school/uni/internet caffee network, etc...)
