@@ -22,3 +22,6 @@ That's it!
 
 ## Todo
 * nothing yet
+
+##Screenshot
+![SMURF DETECTOR 2.0](https://raw.githubusercontent.com/nap10/smurfdetector/master/smurf_detector.png)
