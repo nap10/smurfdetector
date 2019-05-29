@@ -5,7 +5,7 @@ https://forums.alliedmods.net/showthread.php?t=230832
 forked from Sinclair47/player_analytics https://github.com/Sinclair47/player_analytics 
 
 ## What does it do?
-It simply collects all different IP's from a SteamID and then looks for other accounts which were connected to this IP's.  
+This webapp simply searches for all different IP's which belong to a steam account and then looks for other accounts which were connected to this IP's.  
 The chances of that accounts being smurf/alt accounts is 95% :)
 
 The other 5% could be:
