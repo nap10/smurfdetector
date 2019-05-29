@@ -11,6 +11,7 @@ The chances of that accounts being smurf/alt accounts is let's say 95% :)
 The other 5% could be:
 - same internet connection (LAN parties, family members, living communitys, school/uni/internet caffee network, etc...)
 - account sharing (borrowed accounts from friends, etc...)
+- some ISPs share IP between multiple people in a city since there is a shorttage of ip4v adresses
 
 So keep that in mind!
 
