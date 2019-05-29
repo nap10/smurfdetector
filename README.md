@@ -18,9 +18,9 @@ So keep that in mind!
 
 ### Requirements
 
-*[ANY] Player Analytics by Dr. McKay
+**[ANY] Player Analytics** by Dr. McKay
 https://forums.alliedmods.net/showthread.php?t=230832
-*SteamFunctions by nineteeneleven (already included)
+**SteamFunctions** by nineteeneleven (already included)
 https://github.com/nineteeneleven/SteamFunctions
 
 ### Instructions
