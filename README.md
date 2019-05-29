@@ -15,6 +15,15 @@ The other 5% could be:
 So keep that in mind!
 
 ## How to install?
+
+### Requirements
+
+*[ANY] Player Analytics by Dr. McKay
+https://forums.alliedmods.net/showthread.php?t=230832
+*SteamFunctions by nineteeneleven (already included)
+https://github.com/nineteeneleven/SteamFunctions
+
+### Instructions
 Download as zip (or clone) and copy all files to your webserver.  
 Add your DB credentials in config.php.
  
@@ -25,3 +34,4 @@ That's it!
 
 ## Screenshot
 ![SMURF DETECTOR 2.0](https://raw.githubusercontent.com/nap10/smurfdetector/master/smurf_detector.png)
+
