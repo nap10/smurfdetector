@@ -18,10 +18,8 @@ So keep that in mind!
 
 ### Requirements
 
-**[ANY] Player Analytics** by Dr. McKay
-https://forums.alliedmods.net/showthread.php?t=230832
-**SteamFunctions** by nineteeneleven (already included)
-https://github.com/nineteeneleven/SteamFunctions
+- **[ANY] Player Analytics** by Dr. McKay https://forums.alliedmods.net/showthread.php?t=230832
+- **SteamFunctions** by nineteeneleven (already included) https://github.com/nineteeneleven/SteamFunctions
 
 ### Instructions
 Download as zip (or clone) and copy all files to your webserver.  
